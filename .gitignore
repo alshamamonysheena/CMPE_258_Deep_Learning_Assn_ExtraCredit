@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+benchmark_cublas
+results/
+.venv/
+.DS_Store
